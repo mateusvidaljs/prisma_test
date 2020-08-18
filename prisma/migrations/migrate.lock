@@ -1,0 +1,4 @@
+# Prisma Migrate lockfile v1
+
+20200818165252-create_user
+20200818172840-create_post
